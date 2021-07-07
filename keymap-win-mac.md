@@ -48,6 +48,7 @@
 |<kbd>Ctrl</kbd> + <kbd>F</kbd>|<kbd>Command</kbd> + <kbd>F</kbd>|在当前文件进行文本查找|
 |<kbd>Ctrl</kbd> + <kbd>R</kbd>|<kbd>Command</kbd> + <kbd>R</kbd>|在当前文件进行文本替换|
 |<kbd>Ctrl</kbd> + <kbd>Z</kbd>|<kbd>Command</kbd> + <kbd>Z</kbd>|撤销|
+|<kbd>Ctrl</kbd> + <kbd>G</kbd>|<kbd>Command</kbd> + <kbd>L</kbd>|跳转到指定行数位置|
 |<kbd>Ctrl</kbd> + <kbd>Y</kbd>|<kbd>Command</kbd> + <kbd>Delete</kbd>|删除光标所在行 或 删除选中的行|
 |<kbd>Ctrl</kbd> + <kbd>D</kbd>|<kbd>Command</kbd> + <kbd>D</kbd>|复制光标所在行 或 复制选择内容，并把复制内容插入光标位置下面|
 |<kbd>Ctrl</kbd> + <kbd>W</kbd>|<kbd>Option</kbd> + <kbd>方向键上</kbd>|递进式选择代码块。可选中光标所在的单词或段落，连续按会在原有选中的基础上再扩展选中范围|
@@ -99,7 +100,7 @@
 
 |Win 快捷键|Mac 快捷键|介绍|
 |:---------|:---------|:---------|
-|<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>L</kbd>|<kbd>Command</kbd> + <kbd>Option</kbd> + <kbd>L</kbd>|格式化代码，可以对当前文件和整个包目录使用|
+|<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>L</kbd>|<kbd>Command</kbd> + <kbd>Option</kbd> + <kbd>L</kbd>|格式化代码，可以对当前文件和整个包目录使用（有些文件格式化是有特殊要求的，比如 SQL 文件必须设置方言才可被格式化）|
 |<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>O</kbd>|<kbd>Control</kbd> + <kbd>Option</kbd> + <kbd>O</kbd>|优化导入的类，可以对当前文件和整个包目录使用|
 |<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>|<kbd>Command</kbd> + <kbd>Option</kbd> + <kbd>T</kbd>|对选中的代码弹出环绕选项弹出层|
 |<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>S</kbd>|<kbd>Command</kbd> + <kbd>逗号</kbd>|打开 IntelliJ IDEA 系统设置|
